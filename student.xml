@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Master>
+    <STUDENTS>
+        <Student ID="K1234L">
+            <Emer>Flora</Emer>
+            <Mbiemer>Wong</Mbiemer>
+            <Mosha>25</Mosha>
+            <Viti_Fillimi>2023</Viti_Fillimi>
+            <Adresa>
+                <Rruga>Siri Kodra</Rruga>
+                <NumerAp>12</NumerAp>
+                <Kodi_Postar>31</Kodi_Postar>
+                <Qyteti>Tirane</Qyteti>
+            </Adresa>
+            <Lenda>
+                <Emri_lendes>Informatike</Emri_lendes>
+                <Dega>TAL</Dega>
+                <Viti>1</Viti>
+                <Grupi>A</Grupi>
+                <Nota>5</Nota>
+                <Kreditet>3</Kreditet>
+                <Profesori>A.D</Profesori>
+            </Lenda>
+        </Student>
+        <Student ID="K3246L">
+            <Emer>Ina</Emer>
+            <Mbiemer>Mane</Mbiemer>
+            <Mosha>23</Mosha>
+            <Viti_Fillimi>2023</Viti_Fillimi>
+            <Adresa>
+                <Rruga>Rruga Dibres</Rruga>
+                <NumerAp>10</NumerAp>
+                <Kodi_Postar>19</Kodi_Postar>
+                <Qyteti>Tirane</Qyteti>
+            </Adresa>
+            <Lenda>
+                <Emri_lendes>Informatike</Emri_lendes>
+                <Dega>TAL</Dega>
+                <Viti>1</Viti>
+                <Grupi>A</Grupi>
+                <Nota>9</Nota>
+                <Kreditet>3</Kreditet>
+                <Profesori>A.D</Profesori>
+            </Lenda>
+        </Student>
+        <Student ID="K9999L">
+            <Emer>Era</Emer>
+            <Mbiemer>Zeqo</Mbiemer>
+            <Mosha>24</Mosha>
+            <Viti_Fillimi>2023</Viti_Fillimi>
+            <Adresa>
+                <Rruga>Rruga Elbasanit</Rruga>
+                <NumerAp>10</NumerAp>
+                <Kodi_Postar>23</Kodi_Postar>
+                <Qyteti>Tirane</Qyteti>
+            </Adresa>
+            <Lenda>
+                <Emri_lendes>Informatike</Emri_lendes>
+                <Dega>TAL</Dega>
+                <Viti>1</Viti>
+                <Grupi>A</Grupi>
+                <Nota>6</Nota>
+                <Kreditet>3</Kreditet>
+                <Profesori>A.D</Profesori>
+            </Lenda>
+        </Student>
+        <Student ID="K11111L">
+            <Emer>Elona</Emer>
+            <Mbiemer>Mema</Mbiemer>
+            <Mosha>23</Mosha>
+            <Viti_Fillimi>2023</Viti_Fillimi>
+            <Adresa>
+                <Rruga>Ali Demi</Rruga>
+                <NumerAp>09</NumerAp>
+                <Kodi_Postar>44</Kodi_Postar>
+                <Qyteti>Tirane</Qyteti>
+            </Adresa>
+            <Lenda>
+                <Emri_lendes>Informatike</Emri_lendes>
+                <Dega>TAL</Dega>
+                <Viti>1</Viti>
+                <Grupi>A</Grupi>
+                <Nota>9</Nota>
+                <Kreditet>3</Kreditet>
+                <Profesori>A.D</Profesori>
+            </Lenda>
+        </Student>
+        <Student ID="K88888L">
+            <Emer>Eni</Emer>
+            <Mbiemer>Mane</Mbiemer>
+            <Mosha>23</Mosha>
+            <Viti_Fillimi>2023</Viti_Fillimi>
+            <Adresa>
+                <Rruga>Vasil Shanto</Rruga>
+                <NumerAp>10</NumerAp>
+                <Kodi_Postar>17</Kodi_Postar>
+                <Qyteti>Tirane</Qyteti>
+            </Adresa>
+            <Lenda>
+                <Emri_lendes>Informatike</Emri_lendes>
+                <Dega>TAL</Dega>
+                <Viti>1</Viti>
+                <Grupi>A</Grupi>
+                <Nota>5</Nota>
+                <Kreditet>3</Kreditet>
+                <Profesori>A.D</Profesori>
+            </Lenda>
+        </Student>
+    </STUDENTS>
+</Master>
